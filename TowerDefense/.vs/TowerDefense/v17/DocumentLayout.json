@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs",
+              "RelativeToolTip": "Assets\\CameraController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:40:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Node.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BuildManager.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\BuildManager.cs",
               "RelativeDocumentMoniker": "Assets\\BuildManager.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "Assets\\BuildManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:38:16.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:38:16.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:23:33.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T14:23:33.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Turret.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Turret.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:12:32.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T14:12:32.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Turret.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Turret.cs",
               "RelativeDocumentMoniker": "Assets\\Turret.cs",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "Assets\\Turret.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:20:42.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T12:20:42.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WaveSpawner.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\WaveSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\WaveSpawner.cs",
@@ -123,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy.cs",
@@ -135,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Waypoints.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Waypoints.cs",
               "RelativeDocumentMoniker": "Assets\\Waypoints.cs",
