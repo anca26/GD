@@ -3624,7 +3624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   standardTurretPrefab: {fileID: 7975635919575452709, guid: 9e2b8773bea03f94cae070b6417d40e7, type: 3}
-  anotherTurretPrefab: {fileID: 7975635919575452709, guid: 05cebe76bdad35a47ae23345045f268e, type: 3}
+  missileLauncherPrefab: {fileID: 159444524625174610, guid: ad8d5a8910508f34a8ffe05387464edc, type: 3}
 --- !u!1001 &387885605
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5639,7 +5639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.49411768, g: 0.8705883, b: 0.9568628, a: 0.4392157}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.4392157}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -16937,6 +16937,29 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8460461325208370612, guid: de81a589ed647c64b8a2dcc6f3a3c4d2, type: 3}
   m_PrefabInstance: {fileID: 2133287415}
   m_PrefabAsset: {fileID: 0}
+--- !u!33 &1855031949459019985
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8017792646744772529}
+  m_Mesh: {fileID: -4436863061088633788, guid: 31e336f76941f134db4831230ec4c8ed, type: 3}
+--- !u!4 &3181670459086960745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8017792646744772529}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: 1.9932028, y: 2.3776317, z: 4.3306127}
+  m_LocalScale: {x: 100, y: 99.999985, z: 99.999985}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &3366323709554523274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16947,12 +16970,28 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 193177730316577378, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_Name
-      value: Another
+      value: MissileLauncherItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.87169814
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.87169814
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.87169814
       objectReference: {fileID: 0}
     - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 694558721}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: PurchaseMissileLauncher
+      objectReference: {fileID: 0}
     - target: {fileID: 1055344734644874127, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -17036,12 +17075,62 @@ PrefabInstance:
     - target: {fileID: 1104491008419227790, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 85c3b0d1e2e8d4e44bd27e2c8024bb58, type: 3}
+      objectReference: {fileID: 21300000, guid: 5193fcacc2d13794d899f8de8b3ec894, type: 3}
+    - target: {fileID: 4471485984560136984, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_PreferredWidth
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471485984560136984, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_PreferredHeight
+      value: 130
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+--- !u!23 &3602769018605631820
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8017792646744772529}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1001 &5093352156963129868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17177,9 +17266,25 @@ PrefabInstance:
       value: StandardTurretItem
       objectReference: {fileID: 0}
     - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.87058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.87058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.87058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 694558721}
+    - target: {fileID: 892809062495493006, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: PurchaseStandardTurret
+      objectReference: {fileID: 0}
     - target: {fileID: 1055344734644874127, guid: e794b2cbc11bdef4b9287eae2ff5b81b, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -17331,6 +17436,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6069194422562057216, guid: f40dfe709fafdb14a8dca280fa743107, type: 3}
   m_PrefabInstance: {fileID: 7704667637595721330}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8017792646744772529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3181670459086960745}
+  - component: {fileID: 1855031949459019985}
+  - component: {fileID: 3602769018605631820}
+  m_Layer: 0
+  m_Name: Missile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -17345,3 +17468,4 @@ SceneRoots:
   - {fileID: 917933406}
   - {fileID: 238834592}
   - {fileID: 1802779972}
+  - {fileID: 3181670459086960745}
