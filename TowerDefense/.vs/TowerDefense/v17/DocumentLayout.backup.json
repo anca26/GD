@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\TurretBlueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TurretBlueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\MoneyUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MoneyUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\LivesUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LivesUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,139 +58,146 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BuildManager.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildManager.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BuildManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:50:29.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Shop.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Shop.cs",
               "RelativeDocumentMoniker": "Assets\\Shop.cs",
               "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Shop.cs",
               "RelativeToolTip": "Assets\\Shop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:46:21.779Z",
+              "WhenOpened": "2025-04-08T19:18:37.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\CameraController.cs",
-              "RelativeToolTip": "Assets\\CameraController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:40:21.545Z",
+              "WhenOpened": "2025-04-08T19:06:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:01:39.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:57:33.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:33:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurretBlueprint.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\TurretBlueprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurretBlueprint.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\TurretBlueprint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurretBlueprint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:51:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildManager.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:50:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Node.cs",
               "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
               "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Node.cs",
               "RelativeToolTip": "Assets\\Scripts\\Node.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:46:41.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BuildManager.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\BuildManager.cs",
-              "RelativeDocumentMoniker": "Assets\\BuildManager.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\BuildManager.cs",
-              "RelativeToolTip": "Assets\\BuildManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:38:16.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:23:33.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Scripts\\Turret.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:12:32.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\Turret.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Turret.cs",
-              "RelativeToolTip": "Assets\\Turret.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:20:42.005Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WaveSpawner.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\WaveSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\WaveSpawner.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\WaveSpawner.cs",
-              "RelativeToolTip": "Assets\\WaveSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Title": "MoneyUI.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\MoneyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MoneyUI.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\MoneyUI.cs",
+              "RelativeToolTip": "Assets\\MoneyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:05:15.475Z"
+              "WhenOpened": "2025-04-08T12:39:07.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Title": "LivesUI.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\LivesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\LivesUI.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\LivesUI.cs",
+              "RelativeToolTip": "Assets\\LivesUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:14:31.178Z"
+              "WhenOpened": "2025-04-08T18:49:05.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Waypoints.cs",
-              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Waypoints.cs",
-              "RelativeDocumentMoniker": "Assets\\Waypoints.cs",
-              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\Waypoints.cs",
-              "RelativeToolTip": "Assets\\Waypoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerStats.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\sem 2\\GD\\TowerDefense\\Assets\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:09:10.764Z"
+              "WhenOpened": "2025-04-08T11:21:09.117Z",
+              "EditorCaption": ""
             }
           ]
         }
