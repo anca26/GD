@@ -2,23 +2,21 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public float speed = 10f;
+    public float startSpeed = 10f;
+    [HideInInspector]
+    public float speed;
 
-    private Transform target;
-    private int wavepointIndex = 0;
-
-    public int HP = 100;
-    public int value = 50;
+    public float HP = 100;
+    public int worth = 50;
 
     public GameObject deathEffect;
 
     void Start()
     {
-        target = Waypoints.points[0];
-
+        speed = startSpeed;
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         HP -= amount;
         if (HP <= 0)
@@ -27,48 +25,20 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    public void Slow(float amount)
+    {
+        speed = startSpeed * (1f - amount);
+    }
+
     void Die()
     {
-        PlayerStats.money += value;
+        PlayerStats.money += worth;
 
         GameObject effect = (GameObject)Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(effect, 5f);
         Destroy(gameObject);
     }
 
-    void Update()
-    {
-        Vector3 dir = target.position - transform.position;
-        transform.Translate(dir.normalized * speed * Time.deltaTime, Space.World);
-        //asta i pentru viteza sa nu fluctueze
-
-        if (Vector3.Distance(transform.position, target.position) <= 0.2f)
-        {
-            GetNextWaypoint();
-        }
-
-    }
-
-    void GetNextWaypoint()
-    {
-        if (wavepointIndex >= Waypoints.points.Length - 1)
-        {
-            EndPath();
-            return;
-        }
-        wavepointIndex++;
-        target = Waypoints.points[wavepointIndex];
-    }
-
-
-    void EndPath()
-    {
-        Destroy(gameObject);
-        PlayerStats.lives--;
-        if (PlayerStats.lives <= 0)
-        {
-            Debug.Log("Game Over");
-        }
-    }
+   
 
 }
