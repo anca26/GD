@@ -30,6 +30,7 @@ public class WaveSpawner : MonoBehaviour
     IEnumerator SpawnWave()
     {
         waveNumber++;
+        PlayerStats.rounds++;
         Debug.Log("New wave");
         for(int i = 0; i < waveNumber; i++)
         {
