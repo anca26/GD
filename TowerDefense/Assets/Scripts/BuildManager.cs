@@ -20,6 +20,7 @@ public class BuildManager : MonoBehaviour
     }
 
     public GameObject buildEffect;
+    public GameObject sellEffect;
 
     public bool CanBuild { get { return turretToBuild != null; } }
 
