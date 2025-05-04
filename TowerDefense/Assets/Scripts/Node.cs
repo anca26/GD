@@ -9,8 +9,12 @@ public class Node : MonoBehaviour
     private Color startColor;
     public Color notEnoughMoneyColor;
 
-    [Header("Optional")]
+    [HideInInspector]
     public GameObject currentTurret;
+    [HideInInspector]
+    public TurretBlueprint turretBlueprint;
+    [HideInInspector]
+    public bool isUpgraded = false;
 
     BuildManager buildManager;
 
@@ -42,7 +46,55 @@ public class Node : MonoBehaviour
             return;
         }
 
-        buildManager.BuildTurretOn(this);
+        BuildTurret(buildManager.GetTurretToBuild());
+    }
+
+    void BuildTurret(TurretBlueprint blueprint)
+    {
+        if (PlayerStats.money < blueprint.cost)
+        {
+            Debug.Log("Not enough money!");
+            return;
+        }
+
+        PlayerStats.money -= blueprint.cost;
+
+        GameObject turret = (GameObject)Instantiate(blueprint.prefab, GetBuildPosition(), Quaternion.identity);
+        currentTurret = turret;
+
+        turretBlueprint = blueprint;
+
+        GameObject effect = (GameObject)Instantiate(buildManager.buildEffect, GetBuildPosition(), Quaternion.identity);
+        Destroy(effect, 5f);
+
+
+        Debug.Log("Turret built");
+    }
+
+    public void UpgradeTurret()
+    {
+        if (PlayerStats.money < turretBlueprint.upgradeCost)
+        {
+            Debug.Log("Not enough money to upgrade!");
+            return;
+        }
+
+        PlayerStats.money -= turretBlueprint.upgradeCost;
+        //destroy the old turret
+        Destroy(currentTurret);
+
+
+        //build a new one
+        GameObject turret = (GameObject)Instantiate(turretBlueprint.upgradedPrefab, GetBuildPosition(), Quaternion.identity);
+        currentTurret = turret;
+
+        GameObject effect = (GameObject)Instantiate(buildManager.buildEffect, GetBuildPosition(), Quaternion.identity);
+        Destroy(effect, 5f);
+
+        isUpgraded = true;
+
+        Debug.Log("Turret upgraded");
+
     }
 
     void OnMouseEnter()
