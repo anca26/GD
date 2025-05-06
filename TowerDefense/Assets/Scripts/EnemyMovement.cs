@@ -48,6 +48,7 @@ public class EnemyMovement : MonoBehaviour
     {
         Destroy(gameObject);
         PlayerStats.lives--;
+        WaveSpawner.enemiesAlive--;
         if (PlayerStats.lives <= 0)
         {
             Debug.Log("Game Over");

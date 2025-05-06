@@ -40,6 +40,7 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
+        WaveSpawner.enemiesAlive--;
         PlayerStats.money += worth;
 
         GameObject effect = (GameObject)Instantiate(deathEffect, transform.position, Quaternion.identity);
