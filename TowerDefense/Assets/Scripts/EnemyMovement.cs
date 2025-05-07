@@ -19,6 +19,11 @@ public class EnemyMovement : MonoBehaviour
 
     void Update()
     {
+        if (target == null || enemy == null)
+        {
+            return;
+        }
+
         Vector3 dir = target.position - transform.position;
         transform.Translate(dir.normalized * enemy.speed * Time.deltaTime, Space.World);
         //asta i pentru viteza sa nu fluctueze

@@ -17,6 +17,8 @@ public class Enemy : MonoBehaviour
     [Header("Unity Stuff")]
     public Image healthBar;
 
+    private bool isDead = false;
+
     void Start()
     {
         speed = startSpeed;
@@ -27,7 +29,7 @@ public class Enemy : MonoBehaviour
     {
         HP -= amount;
         healthBar.fillAmount = HP / startHP;
-        if (HP <= 0)
+        if (HP <= 0 && !isDead)
         {
             Die();
         }
@@ -40,11 +42,14 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
-        WaveSpawner.enemiesAlive--;
+        isDead = true;
         PlayerStats.money += worth;
 
         GameObject effect = (GameObject)Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(effect, 5f);
+
+        WaveSpawner.enemiesAlive--;
+
         Destroy(gameObject);
     }
 
